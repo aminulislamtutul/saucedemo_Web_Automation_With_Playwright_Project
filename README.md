@@ -41,5 +41,21 @@ npm install
 ```console
 npx playwright test
 ```
+4. Open HTML report:
+```console
+npx playwright show-report
+```
+5. Install Allure report:
+```console
+npm install -D allure-playwright
+```
+6. Generate Allure report:
+```console
+allure generate ./allure-results -o ./allure-report
+```
+7. Open Allure report:
+```console
+allure open ./allure-report
+```
 
 
