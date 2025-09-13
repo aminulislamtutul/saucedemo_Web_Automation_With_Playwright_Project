@@ -57,5 +57,8 @@ allure generate ./allure-results -o ./allure-report
 ```console
 allure open ./allure-report
 ```
+## Allure Reports
+<img width="949" height="479" alt="Screenshot 2025-09-13 214715" src="https://github.com/user-attachments/assets/ce254722-faa3-49a8-b0b9-d15e6193bb0e" />
+
 
 
