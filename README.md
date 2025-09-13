@@ -37,5 +37,9 @@ https://github.com/aminulislamtutul/saucedemo_Web_Automation_With_Playwright_Pro
 ```console
 npm install
 ```
+3. Run tests:
+```console
+npx playwright test
+```
 
 
