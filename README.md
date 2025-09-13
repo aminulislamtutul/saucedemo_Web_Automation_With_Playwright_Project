@@ -7,4 +7,9 @@ This project is an E-Commerce Website Test Automation Framework built with Playw
 - Checkout flow (positive & negative test cases)
 - Logout functionality
 - Allure report
+## Tech Stack
+- Playwright
+- JavaScript (ESM modules)
+- Page Object Model (POM)
+- Allure Test Report
 
