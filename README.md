@@ -12,4 +12,19 @@ This project is an E-Commerce Website Test Automation Framework built with Playw
 - JavaScript (ESM modules)
 - Page Object Model (POM)
 - Allure Test Report
+## Project Structure
+ecommerce-automation/
+│── Pages/               # Page Object Model classes
+│   ├── AccountLoginPage.js
+│   ├── ProductCartPage.js
+│   ├── CheckoutPage.js
+│── tests/               # Test files
+│   ├── login.test.js
+│   ├── cart.test.js
+│   ├── checkout.test.js
+│   ├── logout.test.js
+│── playwright.config.js # Playwright configuration
+│── package.json
+│── README.md
+
 
