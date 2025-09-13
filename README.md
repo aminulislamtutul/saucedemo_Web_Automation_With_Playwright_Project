@@ -31,6 +31,11 @@ ecommerce-automation/
 ## Installation & Setup
 1. Clone the repository:
 ```console
+https://github.com/aminulislamtutul/saucedemo_Web_Automation_With_Playwright_Project.git
+```
+2. Install dependencies:
+```console
+npm install
 ```
 
 
