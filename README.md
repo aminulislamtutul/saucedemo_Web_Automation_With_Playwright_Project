@@ -62,6 +62,8 @@ allure open ./allure-report
 <img width="947" height="479" alt="Screenshot 2025-09-13 214804" src="https://github.com/user-attachments/assets/6cba4e62-42ad-4afa-a884-afe54617e164" />
 
 ## Playwright HTML Report
+<img width="949" height="479" alt="Playwright HTML Report" src="https://github.com/user-attachments/assets/6ad89806-595a-4b66-8864-6cb17f9d756f" />
+
 
 ## Future Enhancements
 - Add product search & filter tests
