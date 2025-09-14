@@ -11,7 +11,7 @@ This project is an E-Commerce Website Test Automation Framework built with Playw
 - Playwright
 - JavaScript (ESM modules)
 - Page Object Model (POM)
-- Allure Test Report
+- Allure Test Report and Playwright HTML Report
 ## Project Structure
 ```
 ecommerce-automation/
