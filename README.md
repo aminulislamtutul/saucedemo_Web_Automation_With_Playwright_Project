@@ -20,7 +20,7 @@ ecommerce-automation/
 │   ├── ProductCartPage.js
 │   ├── CheckoutPage.js
 │── tests/               # Test files
-│   ├── TestAccountLoginPage_TC001.test.js
+│   ├── TestAccountLoginPage_TC001.spec.js
 │   ├── cart.test.js
 │   ├── checkout.test.js
 │   ├── logout.test.js
