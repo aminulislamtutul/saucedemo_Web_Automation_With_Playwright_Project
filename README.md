@@ -22,7 +22,7 @@ ecommerce-automation/
 │── tests/               # Test files
 │   ├── TestAccountLoginPage_TC001.spec.js
 │   ├── TestCartPage_TC002.spec.js
-│   ├── checkout.test.js
+│   ├── TestCheckoutPage_TC003.spec.js
 │   ├── logout.test.js
 │── playwright.config.js # Playwright configuration
 │── package.json
